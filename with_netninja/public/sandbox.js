@@ -16,11 +16,3 @@ names.forEach(function (name) {
     alert(name);
 });
 console.log("Hehhe");
-
-const form = document.querySelector('.new-item-form');
-
-const type = document.querySelector('#type');
-const type = document.querySelector('#tofrom');
-const type = document.querySelector('#details');
-const type = document.querySelector('#amount');
-
